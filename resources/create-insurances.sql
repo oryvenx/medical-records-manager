@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS INSURANCES (
+    insurance_id INT PRIMARY KEY,
+    insurance_name VARCHAR(100) NOT NULL
+);
